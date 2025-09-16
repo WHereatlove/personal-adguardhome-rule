@@ -1,13 +1,10 @@
 0.0.0.0 resolver.msg.xiaomi.net
 
-amap
-0.0.0.0 sync.amap.com
-
-yandex browser
+#yandex browser
 0.0.0.0 ya-keyboard.s3.yandex.net
 0.0.0.0 api.browser.yandex.ru
 
-123pan
+#123pan
 0.0.0.0 ad.shunchangzhixing.com
 0.0.0.0 sdkapi.cloooud.com
 0.0.0.0 mobads.baidu.com
@@ -20,7 +17,7 @@ yandex browser
 0.0.0.0 sdk.adx.adwangmai.com
 0.0.0.0 sdk-track.66mobi.com
 
-xhs
+#xhs
 0.0.0.0 sns-avatar-qc.xhscdn.com
 0.0.0.0 c-hzgt2.getui.com
 0.0.0.0 sdk-open-phone.getui.com
@@ -39,16 +36,17 @@ xhs
 0.0.0.0 smartop-sdkapi.jiguang.cn
 0.0.0.0 portal-resouce.jiguang.cn
 
-metavpn
+#metavpn
 0.0.0.0 fundingchoicesmessages.google.com
 
-gddt
+#amap
+0.0.0.0 sync.amap.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 xpis-xcdn.youku.com
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 ai.amap.com
 
-douyin
+#douyin
 0.0.0.0 lf6-font-sign.bytehwm.com
 0.0.0.0 lf3-font-sign.bytehwm.com
 0.0.0.0 log.snssdk.com
@@ -78,13 +76,13 @@ douyin
 0.0.0.0 mon.snssdk.com
 0.0.0.0 adash.man.aliyuncs.com
 
-suanfa
+#suanfa
 0.0.0.0 junge666.cn
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 errnewlog.umeng.com
 
-coolapk
+#coolapk
 0.0.0.0 pitk.birdgesdk.com
 0.0.0.0 aa.birdgesdk.com
 0.0.0.0 unicom.shuzilm.cn
@@ -180,31 +178,31 @@ coolapk
 0.0.0.0 register.xmpush.global.xiaomi.com
 0.0.0.0 tobapplog.volceapplog.com
 
-wechat
+#wechat
 0.0.0.0 file.daihuo.qq.com
 0.0.0.0 game.weixin.qq.com
 0.0.0.0 mmbiz.qpic.cn
 0.0.0.0 wx.qlogo.cn
 
-maxnet
+#maxnet
 0.0.0.0 firebase-settings.crashlytics.com
 
-tim
+#tim
 0.0.0.0 public.gdtimg.com
 0.0.0.0 tangram-config.gdt.qq.com
 
-kuaishou
+#kuaishou
 0.0.0.0 unilog.wostore.cn
 0.0.0.0 ws.push.yximgs.com
 0.0.0.0 unipayupg.wostore.cn:8080
 0.0.0.0 ulogjs.ksapisrv.com
 
-adregex
+#adregex
 0.0.0.0 ramanveerji.github.io
 
-adaway
+#adaway
 0.0.0.0 app.adaway.org
 
-lsposed
+#lsposed
 0.0.0.0 docs.lsposed.org
 0.0.0.0 lsposed.github.io
