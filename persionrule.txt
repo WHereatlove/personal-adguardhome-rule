@@ -174,7 +174,6 @@
 ! wechat
 ||file.daihuo.qq.com
 ||game.weixin.qq.com
-||mmbiz.qpic.cn
 ||wx.qlogo.cn
 ! maxnet
 ||firebase-settings.crashlytics.com
