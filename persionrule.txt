@@ -2,21 +2,6 @@
 ||resolver.msg.xiaomi.net
 ! amap
 ||sync.amap.com
-! yandex browser
-||ya-keyboard.s3.yandex.net
-||api.browser.yandex.ru
-! 123pan
-||ad.shunchangzhixing.com
-||sdkapi.cloooud.com
-||mobads.baidu.com
-||cn-api.anythinktech.com
-||sdk.aqyad.com
-||mssdk.volces.com
-||report.shunchangzhixing.com
-||ad.bwton.com
-||trace.aqyad.com
-||sdk.adx.adwangmai.com
-||sdk-track.66mobi.com
 ! xhs
 ||sns-avatar-qc.xhscdn.com
 ||c-hzgt2.getui.com
@@ -79,7 +64,16 @@
 ! wechat
 ||file.daihuo.qq.com
 ||game.weixin.qq.com
+||wx.qlogo.com
+||69hey3-dnsotls-ds.metric.gstatic.com
+||szshort.weixin.qq.com
+||szextshort.weixin.qq.com
+||mp.weixin.qq.com
+||szminorshort.weixin.qq.com
+||szquic.weixin.qq.com
 ||wx.qlogo.cn
+||wexrtc-dnsotls-ds.metric.gstatic.com
+||res.wx.qq.com
 ! maxnet
 ||firebase-settings.crashlytics.com
 ! tim
