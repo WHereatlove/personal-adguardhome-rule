@@ -61,19 +61,6 @@
 ||ulogs.umeng.com
 ||aaid.umeng.com
 ||errnewlog.umeng.com
-! wechat
-||file.daihuo.qq.com
-||game.weixin.qq.com
-||wx.qlogo.com
-||69hey3-dnsotls-ds.metric.gstatic.com
-||szshort.weixin.qq.com
-||szextshort.weixin.qq.com
-||mp.weixin.qq.com
-||szminorshort.weixin.qq.com
-||szquic.weixin.qq.com
-||wx.qlogo.cn
-||wexrtc-dnsotls-ds.metric.gstatic.com
-||res.wx.qq.com
 ! maxnet
 ||firebase-settings.crashlytics.com
 ! tim
